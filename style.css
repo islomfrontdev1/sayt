@@ -1,0 +1,23 @@
+.qora {
+  background-color: black;
+  width: 150px;
+  padding: 20px;
+  background-color: black;
+  border-radius: 70px;
+}
+.circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.qizil {
+  background-color: red;
+}
+.sariq {
+  background-color: yellow;
+  margin-top: 20px;
+}
+.yashil {
+  background-color: green;
+  margin-top: 20px;
+}
